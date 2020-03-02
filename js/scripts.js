@@ -109,7 +109,7 @@ function validate() {
 
     } else {
 
-        alert("We have recieved  your message " + name + ", " + " thank you for getting in touch with us");
+        alert("We have recieved  your message " + name + ", " + " thank you for getting in touch with us,Have an awesome day");
     };
 
 }
