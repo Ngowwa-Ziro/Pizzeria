@@ -2,7 +2,7 @@
 * By Joseph Ngowwa
 ## DESCRIPTION
 * Ngowwa Pizzeria is website where pizza fanatics get the opportunity to order pizza that most prefer as they select size,toppings,crust and whether they want it to be delivered.
-* The active link to this webpage is  
+* The active link to this webpage is https://ngowwa-ziro.github.io/Pizzeria/. 
 ### PARTS
   * About us ~ Get to know of our values
   * Services ~ Get to know of what we offer
