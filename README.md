@@ -1,8 +1,8 @@
 # Pizza
 * By Joseph Ngowwa
 ## DESCRIPTION
-* Delani studio is a website that is dedicated to connecting you with world class developers to build your website. Through the website, you can get to know who we are and what we do too. We also give you a chance to take a sneak peek at our past projects and contact us for enquiry and more.
-* The active link to this webpage is  https://ngowwa-ziro.github.io/Delani/
+* Ngowwa Pizzeria is website where pizza fanatics get the opportunity to order pizza that most prefer as they select size,toppings,crust and whether they want it to be delivered.
+* The active link to this webpage is  https://ngowwa-ziro.github.io/Pizzeria/.
 * Have fun visiting my webpage and live a comment
 ### PARTS
   * About us ~ Get to know of our values
